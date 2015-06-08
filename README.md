@@ -13,13 +13,9 @@ What you should know beforehand:
 
 - The code is for Matlab
 
-- It requires the Netlab toolbox. You can download Netlab from 
-  http://www.ncrg.aston.ac.uk/netlab/
-
-  Note from Neil: this link no longer works. Aston make netlab
-  available [here](http://www.aston.ac.uk/eas/research/groups/ncrg/resources/netlab/).
-
-  or we have a local repo available from sods [here](https://github.com/sods/netlab/).
+- It requires the Netlab toolbox. You can download Netlab. Aston make netlab
+  http://www.aston.ac.uk/eas/research/groups/ncrg/resources/netlab/ or we have a local repo
+  available from sods https://github.com/sods/netlab/.
 
 - Install Netlab *before* trying to run any of the programs here.
 
