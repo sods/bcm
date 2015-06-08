@@ -1,7 +1,8 @@
 
 Bayesian Committee Machine
+===
 
-This software used to be hosted by Anton Schwaighofer, but doesn't appear to be on line any more. We've added it here under the sods repo to ensure it is available.
+This software used to be hosted by Anton Schwaighofer, but doesn't appear to be on line any more. We've added it here under the sods repo to ensure it is available. Below is Anton's original README file.
 
 Version 1.0, November 2005
 
@@ -16,13 +17,9 @@ What you should know beforehand:
   http://www.ncrg.aston.ac.uk/netlab/
 
   Note from Neil: this link no longer works. Aston make netlab
-  available here:
+  available [here](http://www.aston.ac.uk/eas/research/groups/ncrg/resources/netlab/).
 
-  http://www.aston.ac.uk/eas/research/groups/ncrg/resources/netlab/
-
-  or we have a local repo available from sods here:
-
-  https://github.com/sods/netlab/
+  or we have a local repo available from sods [here](https://github.com/sods/netlab/).
 
 - Install Netlab *before* trying to run any of the programs here.
 
